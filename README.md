@@ -9,4 +9,5 @@ Visualizing the success rate similar kickstarter campaigns are based on when the
 ## Analysis and Challenges
 
   By using pivot tables I could use the data sets for date created and outcome to create a graph that showed the number of specific outcomes by month.
+  ![Theater_Outcomes_vs_Launch](https://github.com/Nifmoo/kickstarter_analysis/blob/main/Theater_Outcomes_VS_Launch.png)
   
