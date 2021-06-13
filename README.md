@@ -18,7 +18,7 @@ Visualizing the success rate similar kickstarter campaigns are based on when the
   ![Outcomes_vs_Goals](https://github.com/Nifmoo/kickstarter_analysis/blob/main/Outcomes_vs_Goals.png)
  
 ### Challenges and Difficulties Encountered
-    The challenge I encountered when using the pivot table was the Date Created values split into diiferent parts when selected for the pivot table. So i had to determine which part had the data i needed, the months, then filter accordingly.
+   The challenge I encountered when using the pivot table was the Date Created values split into diiferent parts when selected for the pivot table. So i had to determine which part had the data i needed, the months, then filter accordingly.
   
    The challenge I encountered creating this graph was actually creating the formulas using the COUNTIFS() function. It was a minor encounter, but at first I was not recieving the proper number of total projects. When i realized my mistake i realized I was not including the boundaries of the ranges. I changed the inside of my formulas to <= and >=, instead of < and > to fix my mistake.
   
